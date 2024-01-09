@@ -1,7 +1,10 @@
 ### Hi there 👋
-![Leetcode Stats](https://leetcard.jacoblin.cool/madhavgiga1)
-![](https://leetcard.jacoblin.cool/lapor?ext=contest)
-![Leetcode Stats](https://leetcard.jacoblin.cool/madhavgiga1/lapor?ext=contest)
+![](https://leetcard.jacoblin.cool/madhavgiga1?ext=contest)
+
+
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Madhavgiga1&show_icons=true&theme=default#gh-light-mode-only)]
+
+
 <!--
 **Madhavgiga1/Madhavgiga1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
